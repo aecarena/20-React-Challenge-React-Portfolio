@@ -1,0 +1,21 @@
+[
+    {
+        "worksHeader": "Takiwatanga",
+        "workslink": "https://github.com/aecarena/Takiwatanga",
+        "image": "./images/hands.png",
+        "description": "social networking site for families with Autism"
+    },
+    {
+        "worksHeader": "Workout Nation",
+        "workslink": "https://github.com/aecarena/Project-2-Workout-Nation",
+        "image": "./images/running.png",
+        "description": "workout tracker app"
+    },
+    {
+       "worksHeader": "Foodle",
+        "workslink": "https://github.com/aecarena/Project-1-Foodle-app",
+        "image": "./images/food.png",
+        "description": "food suggestion app"
+    }
+   
+]
